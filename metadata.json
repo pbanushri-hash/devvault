@@ -1,0 +1,6 @@
+{
+  "name": "DevVault",
+  "description": "Local Developer Workspace Search Engine built with Zero Dependencies (Python Standard Library only)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
